@@ -1,1 +1,2 @@
 # C01
+Well this C01 Projects basically teaches you on how to get used to the logic behind coding. Most importantly it teaches you on how the concepts of pointers work. What is the logic behind the use of pointer. Besides that, this c01 also teaches you on the usage of division, multiplication, equal to, swapping the value of the variables and so on. This helps you to grasp the logic behind mathmatics and how to execute them.
